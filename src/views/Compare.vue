@@ -3,6 +3,7 @@
   <h1>Compare:</h1>
   <p v-if = "noCharacter">Please select atleast one character</p>
   <CompareList :selectedCharacters="selectedCharacters" />
+  <a href="https://github.com/skyman625/CreativeProject3.git"> GitHub Repository</a>
 </div>
 </template>
 
